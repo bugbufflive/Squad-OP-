@@ -1,2 +1,22 @@
 # Squad-OP-
 自动格式化地图名称 | 本地存储配置
+
+代码在https://gist.github.com/bugbufflive/0afdbca5778dfd7990b9a8963b271eb1
+
+使用说明
+​如何修改地图列表或理由：
+​在代码底部找到 <script> 标签内的 CONFIG 变量。
+​在 maps: [...] 中添加或删除地图名称。
+​在 reasons: [...] 中修改常用踢人理由。
+​修改 adminSuffix 可以改变连接词（例如改为 " OP:"）。
+​默认参数：
+​默认管理员名字设置为 无。
+​默认地图和模式会显示在下拉菜单中。
+​功能逻辑：
+​ByID 指令：优先生成 byid 类型的指令（如文档 推荐），因为输入短 ID 比输入 SteamID 更方便。
+​自动拼接：当您输入理由“挂机”时，生成的指令会自动变为 挂机 处理人:abcde。
+​部署：
+​登录 Cloudflare Dashboard。
+​创建一个新的 Worker。
+​将上述代码完全覆盖默认的 worker.js。
+​保存并部署，即可通过给定的 URL 访问此工具。
