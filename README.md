@@ -1,8 +1,5 @@
 # Squad-OP-
 自动格式化地图名称 | 本地存储配置
-
-代码在https://gist.github.com/bugbufflive/0afdbca5778dfd7990b9a8963b271eb1
-
 使用说明
 ​如何修改地图列表或理由：
 ​在代码底部找到 <script> 标签内的 CONFIG 变量。
