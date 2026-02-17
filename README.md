@@ -34,3 +34,8 @@
 将上述代码完全覆盖默认的 worker.js。
 ​
 保存并部署，即可通过给定的 URL 访问此工具。
+
+常见问题
+
+<img width="2551" height="1371" alt="image" src="https://img.quad.de5.net/file/hf/jtEMf3ZJ.webp" />
+<img width="2551" height="1371" alt="image" src="https://github.com/user-attachments/assets/4bb1c3e2-0c06-45f1-be11-d97064f57a04" />
