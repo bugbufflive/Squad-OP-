@@ -38,4 +38,6 @@
 常见问题
 
 <img width="2551" height="1371" alt="image" src="https://img.quad.de5.net/file/hf/jtEMf3ZJ.webp" />
-<img width="2551" height="1371" alt="image" src="https://github.com/user-attachments/assets/4bb1c3e2-0c06-45f1-be11-d97064f57a04" />
+<img width="2560" height="1428" alt="image" src="https://github.com/user-attachments/assets/c68e238c-30f2-44c5-b824-e6b0593c9981" />
+<img width="2560" height="1428" alt="image" src="https://github.com/user-attachments/assets/90b3804c-e746-461f-8d84-8f67d7eff4ad" />
+
